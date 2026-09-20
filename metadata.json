@@ -1,0 +1,6 @@
+{
+  "name": "PersonTrack AI",
+  "description": "Sistema CAÇA de monitoramento inteligente com detecção de pessoas, produtividade, controle de acesso e análise de câmeras via modelo de IA.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
